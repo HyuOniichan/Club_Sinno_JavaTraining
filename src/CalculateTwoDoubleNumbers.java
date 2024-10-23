@@ -1,3 +1,4 @@
+// 1.1.5
 import javax.swing.JOptionPane;
 public class CalculateTwoDoubleNumbers {
     public static void main(String[] args) {
@@ -39,5 +40,6 @@ public class CalculateTwoDoubleNumbers {
                 JOptionPane.INFORMATION_MESSAGE
         );
 
+        System.exit(0);
     }
 }

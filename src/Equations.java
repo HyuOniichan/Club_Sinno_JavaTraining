@@ -5,6 +5,8 @@ public class Equations {
         LinearEquation();
         LinearSystem();
         SecondDegreeEquation();
+
+        System.exit(0);
     }
 
     static String ln = System.getProperty("line.separator");
